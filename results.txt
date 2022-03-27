@@ -1,0 +1,6 @@
+0 silver dollars
+1 quarters
+16 dimes
+2 nickels
+6 pennies
+Total sum: $2.01
